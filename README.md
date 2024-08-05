@@ -1,5 +1,5 @@
 # GML-on-Multi-Tables
-The tutorial website for KDD 2024 tutorial Graph Machine Learning Meets Multi-Table Relational Data
+The tutorial website for KDD 2024 tutorial Graph Machine Learning Meets Multi-Table Relational Data.
 
 ## What you will learn
 
@@ -13,10 +13,13 @@ Although this tutorial is suitable for audiences with a general knowledge of mac
 
 ## Presenter bio
 
+
 **Quan Gan** (https://github.com/BarclayII) is a Senior Applied Scientist at Amazon. His research interests include heterogeneous graph neural networks, algorithm unrolling, and the application of graph neural networks to domains such as tabular data and hypergraph networks. He obtained his Master's degree at New York University and Bachelor's degree at Fudan University.
 
+![](https://jermainewang.github.io/assets/images/profile.png)
 **Minjie Wang** (https://github.com/jermainewang) is a Senior Applied Scientist at Amazon. Previously he obtained his Ph.D. degree from New York University. His research focus is the interdisciplinary area of machine learning and system design, including building deep learning systems with high usability and performance, as well as applying machine learning in system optimization. He is also an open-source enthusiast, the founder and major contributor of many well-known open source projects such as Minerva, Apache MXNet, MinPy, and the Deep Graph Library (DGL). Among them, Minerva has been described as a "Modern AI Engine" by NVIDIA, while Apache MXNet was at one point the deep learning framework of choice at AWS; DGL is one of the most popular frameworks for developing and applying graph neural networks.
 
+![](http://nebula.wsimg.com/7ca45e977c5a2f29ba48799cea45e86f?AccessKeyId=146529ABA7789B138972&disposition=0&alloworigin=1)
 **David Wipf** is a Principal Research Scientist at Amazon and an IEEE Fellow. Prior to industry positions at Amazon and Microsoft Research, he received a B.S. degree with highest honors from the University of Virginia, and M.S. and Ph.D. degrees from the University of California, San Diego as an NSF Fellow in Vision and Learning in Humans and Machines. He was later an NIH Postdoctoral Fellow at the University of California, San Francisco. His current research interests include deep generative models and graph neural networks. He is the recipient of numerous fellowships and awards including the 2012 Signal Processing Society Best Paper Award. He has previously delivered 5 tutorials at top-tier conferences.
 
 ## Tutorial outline
