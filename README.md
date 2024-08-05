@@ -36,3 +36,7 @@ We will start with an overview of different multi-table data scenarios such as R
 ### Session.2: From multi-table data to RDBs and graphs
 
 We will first introduce concrete examples whereby data schema information is missing and illustrate its impact. We will then discuss the various schema discovery steps and available tools used to transition from raw multi-table data into RDBs with explicit relational structure.  For ML researchers who are not familiar with RDBs, we will have a gentle introduction to the relevant concepts including foreign keys, primary keys, entity-relationship diagrams, etc.  Finally, we will detail multiple ways for extracting heterogeneous graphs from RDBs with different characteristics.
+
+## Slides
+
+Coming soon.
